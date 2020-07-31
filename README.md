@@ -1,1 +1,2 @@
-# 2012-2013-TCIT-first-com-app
+# 2012-2013
+First commercial application
