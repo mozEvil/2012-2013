@@ -13,10 +13,10 @@ import javax.swing.JOptionPane;
 
 public class DB {
  /*   
-    private String user = "root";//"user26665_tur";
-    private String pass = "root";//"user26665_tur"; 
-    private String host = "127.0.0.1:3306";//"46.4.125.179:3306";
-    private String base = "foton";//"user26665_tur"; 
+    private String user = "root";
+    private String pass = "root";
+    private String host = "127.0.0.1:3306";
+    private String base = "foton"; 
     private String url = "jdbc:mysql://" + host + "/" + base + "?useUnicode=true&characterEncoding=UTF-8&characterSetResults=UTF-8";
   */
     private Connection conn = null;
